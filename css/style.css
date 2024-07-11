@@ -1,0 +1,122 @@
+.Nav-Bar{
+    background-color:#262336 ;
+    border-bottom: groove;
+}
+
+.Nav-Left-Word h3{
+    color: #cac9cf;
+}
+
+.Nav-Left-Word{
+    color:#918e9f
+}
+
+.Nav-Right a{
+    color:#5d647d
+}
+
+/*Nav-Bar END*/
+
+.Customer-Support{
+    background-color: #262336;
+    text-align: center;
+}
+
+.Customer-Support h2{
+    color: rgb(199,192,232);
+    color: linear-gradient(180deg, rgba(199,192,232,1) 0%, rgba(72,68,87,1) 100%);
+}
+
+.Customer-Support h1{
+    color:white;
+}
+
+.Customer-Support p{
+    color:#68647d;
+}
+
+.Customer-Support button{
+    background: linear-gradient(180deg, rgba(171,164,201,1) 0%, rgba(104,100,126,1) 100%);
+    color: white;
+    border-radius: 10%;
+    width: 25%;
+    height: 50px;
+}
+
+/*Customer-Support END*/
+
+.Orange-Support{
+    background-color: #f29b66;
+    text-align:center;
+}
+
+.Orange-Support h3{
+    color: white;
+}
+
+.Orange-Support h4{
+    color: rgb(230,230,232);
+    color: linear-gradient(180deg, rgba(230,230,232,1) 0%, rgba(212,210,217,1) 100%);
+}
+
+.Orange-Support p{
+    color: black;
+}
+
+.Orange-Support img{
+    height: 30%;
+    width: 30%;
+}
+
+/*Orange-Support END*/
+
+.Pricing-Tables{
+    text-align: center;
+}
+
+.Pricing-Tables ul li{
+    list-style-type: none;
+}
+
+.Pricing-Title{
+    background-color: #6f6c89;
+    color: rgb(217,216,216);
+    color: linear-gradient(180deg, rgba(217,216,216,1) 0%, rgba(156,151,151,1) 100%);
+    border: 1px solid #eee;
+}
+
+.Pricing-Cost{
+    background-color: #6f6c89;
+    color:#d8d4d4; 
+}
+
+.Pricing-Cost span{
+    color: #ea6f1d;
+}
+
+.Pricing-White{
+    background-color: white;
+    color: #bdb7b5;
+}
+
+.Pricing-Grey{
+    background-color: #f5f0f0;
+    color: #b3b8c3;
+}
+
+.Pricing-White button{
+    background: rgb(243,145,89);
+    background: linear-gradient(180deg, rgba(243,145,89,1) 0%, rgba(229,91,49,1) 100%);
+    color: white;
+    border: none;
+}
+
+.Mini-Hosting{
+    border: groove;
+}
+
+
+/*SIZEEEEEEEEEINGGGGGG*/
+@media (min-width:576px) /*landscape phones*/ {
+
+}
