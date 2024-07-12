@@ -5,6 +5,7 @@
 
 .Nav-Left-Word h3{
     color: #cac9cf;
+    text-align: left;
 }
 
 .Nav-Left-Word{
@@ -72,6 +73,7 @@
 
 .Pricing-Tables{
     text-align: center;
+    background-color: #e8e8ea;
 }
 
 .Pricing-Tables ul li{
@@ -111,12 +113,56 @@
     border: none;
 }
 
-.Mini-Hosting{
-    border: groove;
+/*Pricing Tables END*/
+
+.Purple-Section{
+    background-color: #262336;
+    text-align: left;
 }
 
+.Purple-Section h4{
+    color: rgb(209,208,213);
+    color: linear-gradient(180deg, rgba(209,208,213,1) 0%, rgba(132,129,149,1) 100%);}
 
-/*SIZEEEEEEEEEINGGGGGG*/
-@media (min-width:576px) /*landscape phones*/ {
+.Purple-Section ul li{
+    color: white;
+}
+
+.Purple-Section li::marker{
+    color: orange;
+}
+
+.Purple-Section p{
+    color: #bebcab;
+}
+
+.Purple-Section button{
+    background: linear-gradient(180deg, rgba(243,145,89,1) 0%, rgba(226,90,47,1) 100%);
+    color: white;
 
 }
+/*Purple-Section END*/
+
+.Name-Brands{
+    background-color: #322f40;
+}
+
+/*Name-Brands END*/
+
+.Nav-Bar-Bottom{
+    background-color: #1a1921;
+    color: #444153;
+}
+
+.Nav-Bot-Left{
+    text-align: right;
+}
+
+.Privacy{
+    text-align: right;
+}
+
+.Links{
+    text-align: right;
+}
+
